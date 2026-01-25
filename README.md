@@ -41,3 +41,4 @@ I have dedicated over **50+ hours** to intensive technical training to master th
 ### 📫 Let's Connect!
 - **LinkedIn:** [[Click](https://www.linkedin.com/in/ratchadaporn-leungphetngam-1ba999229/?originalSubdomain=tw)]
 - **Tableau Public:** [[Click](https://public.tableau.com/app/profile/ratchadaporn.leungphetngam/vizzes)]
+- **WordPress:** [[Click](https://chenfalls.wordpress.com/)]
