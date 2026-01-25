@@ -39,5 +39,5 @@ I have dedicated over **50+ hours** to intensive technical training to master th
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your Link](https://www.linkedin.com/in/ratchadaporn-leungphetngam-1ba999229/?originalSubdomain=tw)]
-- **Tableau Public:** [(https://public.tableau.com/app/profile/ratchadaporn.leungphetngam/vizzes)]
+- **LinkedIn:** [Click](https://www.linkedin.com/in/ratchadaporn-leungphetngam-1ba999229/?originalSubdomain=tw)]
+- **Tableau Public:** [Click(https://public.tableau.com/app/profile/ratchadaporn.leungphetngam/vizzes)]
