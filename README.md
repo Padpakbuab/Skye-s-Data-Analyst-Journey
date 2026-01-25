@@ -1,7 +1,7 @@
 # 🚀 Skye's Data Analyst Journey
 ### *Building a Data Portfolio from Ground Zero*
 
-Welcome to my journey! This repository is a live documentation of my progress into the world of Data Analytics. 
+- Welcome to my journey! This repository is a live documentation of my progress into the world of Data Analytics. 
 ---
 
 ## 📚 Foundations & Training
