@@ -1,4 +1,4 @@
-# 🚀 Skye's Data Analyst Journey
+# Skye's Data Analyst Journey
 ### *Building a Data Portfolio from Ground Zero*
 
 - Welcome to my journey! This repository is a live documentation of my progress into the world of Data Analytics. 
@@ -11,10 +11,17 @@ I have dedicated over **50+ hours** to intensive technical training to master th
 > - **Course:** 30-Hour SQL Masterclass (Data With Baara)
 > - [Link to Course](https://www.youtube.com/watch?v=SSKVgrwhzus)
 
-> **Tableau | Business Intelligence**
+> **Tableau | 
 > - **Course:** 20-Hour Tableau Visualisation (Data With Baara)
 > - [Link to Course](https://www.youtube.com/watch?v=K3pXnbniUcM)
 
+> **Excel | 
+> - **Course:** 11-Hour With Luke Barousse
+> - [Link to Course](https://www.youtube.com/watch?v=pCJ15nGFgVg&t=25055s)
+
+> **Power Bi | 
+> - **Course:** 8-Hour With Luke Barousse
+> - [Link to Course](https://www.youtube.com/watch?v=FwjaHCVNBWA&t=10964s)
 ---
 
 ## 🛠️ My Toolbox
