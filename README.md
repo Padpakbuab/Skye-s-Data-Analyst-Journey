@@ -1,7 +1,9 @@
 # Skye's Data Analyst Journey
 ### *Building a Data Portfolio from Ground Zero*
 
-- Welcome to my journey! This repository is a live documentation of my progress into the world of Data Analytics. 
+- Welcome to my journey! I'm now in the stage of making a project that align with my interests such as game data or healthcare data.
+I'm looking as well for the opportunities to analyse human behaviour and reflect the outcome.
+
 ---
 
 ## 📚 Foundations & Training
@@ -36,6 +38,8 @@ I have dedicated over **50+ hours** to intensive technical training to master th
 - [x] **Level 0:** Basic SQL Syntax & Tableau Interface
 - [x] **Level 1:** Intermediate Data Manipulation (Joins, CTEs, Aggregations)
 - [ ] **Level 2:** Building First Independent Project based on my focus and interest
+> Choosing Healthcare data as my first project
+> Data Source: mimic-iv-clinical-database-demo-2.2 from [Kaggle](https://www.kaggle.com/datasets/montassarba/mimic-iv-clinical-database-demo-2-2/data)
 - [ ] **Level 3:** Solving the real case 
 
 ---
