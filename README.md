@@ -45,7 +45,7 @@ I have dedicated over **50+ hours** to intensive technical training to master th
 ---
 
 ## 💡 Philosophy
-
+- Follow your passion, when you put heart in it you will want to grow in it and everything follows.
 
 ---
 
